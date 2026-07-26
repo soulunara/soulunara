@@ -1,16 +1,13 @@
-## Hi there 👋
+# SoulUnara
 
-<!--
-**soulunara/soulunara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building calm, thoughtful Android apps.
 
-Here are some ideas to get you started:
+## Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VaporNotes
+A minimalist notes app where every thought has a lifespan.
+
+- Privacy Policy
+- Support
+
+More apps coming soon.
